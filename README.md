@@ -1,1 +1,1 @@
-# regexp-2
+[![Build status](https://ci.appveyor.com/api/projects/status/peeufo013p931uqv?svg=true)](https://ci.appveyor.com/project/yooyklon/regexp-2)
